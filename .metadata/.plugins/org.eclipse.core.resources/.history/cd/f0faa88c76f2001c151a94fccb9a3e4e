@@ -1,0 +1,20 @@
+package com.pauloedums.microservicecamela.routes.a;
+
+import org.apache.camel.builder.RouteBuilder;
+import org.springframework.stereotype.Component;
+
+@Component
+public class MyFirstTimerRouter extends RouteBuilder{
+
+	@Override
+	public void configure() throws Exception {
+		// timer
+		// transformation
+		// log
+		
+		from("timer:first-timer")
+			.to("log:first-timer");
+	}
+
+	
+}

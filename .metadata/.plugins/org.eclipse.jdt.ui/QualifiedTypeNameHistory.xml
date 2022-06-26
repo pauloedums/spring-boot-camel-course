@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="com.pauloedums.microservicecamela.routes.a.SimpleLogginProcessingComponent"/>
+    <fullyQualifiedTypeName name="org.apache.camel.Processor"/>
+    <fullyQualifiedTypeName name="org.apache.camel.spi.annotations.Component"/>
+    <fullyQualifiedTypeName name="org.apache.camel.builder.RouteBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.apache.camel.model.dataformat.JsonLibrary"/>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+    <fullyQualifiedTypeName name="com.pauloedums.microservicecamelb.routes.ActiveMqReceiverRouter"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="com.pauloedums.microservicecamelb.CurrencyExchange"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+</qualifiedTypeNameHistroy>

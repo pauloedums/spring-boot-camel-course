@@ -1,0 +1,5 @@
+package com.pauloedums.microservicecamelb;
+
+public class CurrencyExchangeController {
+
+}

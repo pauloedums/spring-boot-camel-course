@@ -1,0 +1,5 @@
+package com.pauloedums.microservicecamela.routes.c;
+
+public class ActiveMqSenderRouter {
+
+}

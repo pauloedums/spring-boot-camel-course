@@ -1,0 +1,6 @@
+class CurrencyExchange {
+	Long id;
+	String from;
+	String to;
+	BigDecimal conversionMultiple;
+}

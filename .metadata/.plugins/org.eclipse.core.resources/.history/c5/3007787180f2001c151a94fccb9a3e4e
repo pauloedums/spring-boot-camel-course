@@ -1,0 +1,10 @@
+package com.pauloedums.microservicecamelb;
+
+import java.math.BigDecimal;
+
+class CurrencyExchange {
+	private Long id;
+	private String from;
+	private String to;
+	private BigDecimal conversionMultiple;
+}

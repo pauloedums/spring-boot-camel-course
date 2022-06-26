@@ -1,0 +1,5 @@
+package com.pauloedums.microservicecamela.routes.a;
+
+public class MyFirstTimerRouter {
+
+}

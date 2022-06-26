@@ -1,0 +1,5 @@
+package com.pauloedums.microservicecamela.routes.b;
+
+public class MyFileRouter {
+
+}
